@@ -1,0 +1,174 @@
+{
+  "version": 2,
+  "exportedAt": "2026-04-24T12:48:24.245Z",
+  "card": {
+    "genInfo": {
+      "prefix": null,
+      "fname": "Jovan",
+      "lname": "Marić",
+      "pronouns": null,
+      "name": null,
+      "title": "Creative Director",
+      "biz": "Square Daisy",
+      "desc": null,
+      "key": null,
+      "fp": null,
+      "tracker": null,
+      "fontLink": null,
+      "fontCss": null,
+      "street": "nTrust House, 26 Holmethorpe Avenue, Redhill, Surrey",
+      "city": "",
+      "state": "",
+      "postal": "RH1 2NL",
+      "country": "",
+      "beforeTextLink": "Get your card @",
+      "linkedText": "Exposure Boost 👨‍💻",
+      "url": "https://o2o.to/i/1QdFNT",
+      "seoTitle": null,
+      "metaDescription": null,
+      "customFavi": "https://i.postimg.cc/QdsXFN7y/Untitled-design-2026-04-24T122947-587.png",
+      "shareImg": "https://i.postimg.cc/QdsXFN7y/Untitled-design-2026-04-24T122947-587.png",
+      "bookMarkImg": "https://i.postimg.cc/QdsXFN7y/Untitled-design-2026-04-24T122947-587.png",
+      "bookMarkTitle": null,
+      "metaName": null,
+      "metaContent": null,
+      "metaURL": null
+    },
+    "colors": {
+      "logoBg": {
+        "color": "#FFFFFF",
+        "openPalette": false
+      },
+      "mainBg": {
+        "color": "#FFFFFF",
+        "openPalette": false
+      },
+      "buttonBg": {
+        "color": "#fcc138",
+        "openPalette": false
+      },
+      "cardBg": {
+        "color": "#FFFFFF",
+        "openPalette": false
+      }
+    },
+    "hostedURL": null,
+    "footerCredit": true,
+    "footerCreditCustom": true,
+    "logoOrHeader": true,
+    "customFavicon": true,
+    "shareImage": true,
+    "seoOpti": true,
+    "seoOptimization": false,
+    "metaData": false,
+    "simplifyCard": false,
+    "isFeaturedOn": false,
+    "customFavi": true,
+    "bookMarkImg": null,
+    "bookMarkImage": true,
+    "bookMarkTitle": false,
+    "shareImg": null,
+    "images": {
+      "logo": null,
+      "photo": null,
+      "cover": {
+        "file": "cover.png",
+        "ext": "png",
+        "mime": "image/png"
+      },
+      "icon": null
+    },
+    "primaryActions": [
+      {
+        "name": "Mobile",
+        "href": "tel:",
+        "placeholder": "+1XXXXXXXXXX",
+        "value": "07747 008803",
+        "label": "Your Mobile Number"
+      },
+      {
+        "name": "Office",
+        "href": "tel:",
+        "placeholder": "+1XXXXXXXXXX",
+        "value": "0203 4116617",
+        "label": "Your Office Number"
+      },
+      {
+        "name": "whatsApp",
+        "placeholder": "https://wa.me/profileID",
+        "value": "https://wa.me/+447747008803",
+        "label": "Your WhatsApp URL"
+      },
+      {
+        "name": "email",
+        "href": "mailto:",
+        "placeholder": "info@example.com",
+        "value": "jovan@squaredaisy.com",
+        "label": "Your Email Address"
+      },
+      {
+        "name": "website",
+        "placeholder": "https://example.com",
+        "value": "https://www.squaredaisy.com/",
+        "label": "Your Website URL"
+      }
+    ],
+    "secondaryActions": [
+      {
+        "name": "instagram",
+        "placeholder": "https://instagram.com/UserName",
+        "value": "https://www.instagram.com/squaredaisyhq/",
+        "color": "#405de6",
+        "label": "Your Instagram URL"
+      },
+      {
+        "name": "youtube",
+        "placeholder": "https://youtube.com/ChannelUserName",
+        "value": "https://www.youtube.com/@SquareDaisyHQ",
+        "color": "#ff0000",
+        "label": "Your YouTube URL"
+      },
+      {
+        "name": "linkedin",
+        "placeholder": "https://linkedin.com/in/UserName",
+        "value": "https://www.linkedin.com/in/jovanmaric/",
+        "color": "#0077b5",
+        "label": "Your Linkedin URL"
+      },
+      {
+        "name": "vimeo",
+        "placeholder": "https://vimeo.com/channelName",
+        "value": "https://vimeo.com/squaredaisyhq",
+        "color": "#1ab7ea",
+        "label": "Your Vimeo URL"
+      }
+    ],
+    "featured": [
+      {
+        "title": "",
+        "content": [
+          {
+            "label": "Review us on Google!",
+            "link": "https://g.page/r/CWRVr7KI6bRjEBM/review",
+            "contentType": "customButton"
+          },
+          {
+            "name": "googlelogonewest.png",
+            "title": "googlelogonewest",
+            "artist": null,
+            "album": null,
+            "filesize": null,
+            "type": "image",
+            "contentType": "media",
+            "ext": "png",
+            "mime": "image/png",
+            "info": null,
+            "file": "media/googlelogonewest.png",
+            "coverFile": null,
+            "coverExt": null
+          }
+        ]
+      }
+    ]
+  }
+}
